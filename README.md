@@ -1,9 +1,15 @@
 # PUSH-BUTTON-COUNTER
+
 *COMPANY*: CODTECH IT SOLUTIONS
+
 *NAME*: SEEPANA MURALIKRISHNA
+
 *INTERN ID*: CT08DF1739
+
 *DOMAIN*: EMBEDDED SYSTEMS
+
 *DURATION*: 8 WEEKS
+
 *MENTOR*: NEELA SANTOSH
 
 # 🔢 Task 1: Push Button Counter
@@ -126,6 +132,9 @@ void loop() {
 6. Click **“Start Simulation”**
 7. Press the button on the screen and observe the LCD update in real-time.
 
+## Output
+
+<img width="1920" height="1140" alt="Image" src="https://github.com/user-attachments/assets/e0ea71a4-6853-466e-8c20-7651b8278420" />
 
 ## 🎯 Final Notes
 
